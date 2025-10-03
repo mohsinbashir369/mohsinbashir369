@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Mohsin Bashir
+
 <p align="center">
   <img src=https://img.freepik.com/premium-photo/cute-3d-style-chibi-programmer-glasses-perched-their-nose-leaning-back-their-chair_1118790-220.jpg?semt=ais_hybrid&w=740&q=80 alt="Coding illustration" width="400"/>
 </p>
