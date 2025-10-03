@@ -44,9 +44,6 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="DBMS" width="40" height="40"/>
   
-  <img src="https://img.shields.io/badge/DSA/DAA-000?style=for-the-badge&logo=codepen&logoColor=white" alt="DSA/DAA"/>
-  
-  <img src="https://img.shields.io/badge/Web_Development-000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Web Development"/>
 </p>
 <!--
 **mohsinbashir369/mohsinbashir369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
