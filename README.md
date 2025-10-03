@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Mohsin Bashir
+<p align="center">
+  <img src="[YOUR_IMAGE_URL_HERE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fsoftware-developer-cartoon&psig=AOvVaw3Py4UFOh199cJCOfCFLNLD&ust=1759572797529000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMjRj5yDh5ADFQAAAAAdAAAAABAE)" alt="Coding illustration" width="400"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Mohsin Bashir</h1>
+<h3 align="center">A Passionate Full-Stack Developer | Innovative Problem Solver | Aspiring Software Engineer</h3>
+
+---
+
+## 🚀 About Me
 
 <!--
 **mohsinbashir369/mohsinbashir369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
