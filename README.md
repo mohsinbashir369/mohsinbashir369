@@ -9,7 +9,11 @@
 ---
 
 ## 🚀 About Me
+## 🌟 Currently exploring Advanced JavaScript, React, Node.js, Express.js, MySQL,java and DSA
+## 📧 Email: mohsiinbashir@gmail.com
 
+
+## Connect with me
 <!--
 **mohsinbashir369/mohsinbashir369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
